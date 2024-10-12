@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "cover": "https://images.unsplash.com/photo-1518770660439-4636190af475",
+    "author": "John Doe",
+    "title": "The Rise of AI",
+    "author_img": "https://images.unsplash.com/photo-1599566150163-29194dcaad36",
+    "reading_time": 5,
+    "hashtags": ["#AI", "#Technology", "#Future"],
+    "posted_date": "2024-10-11"
+  },
+  {
+    "id": 2,
+    "cover": "https://images.unsplash.com/photo-1560807707-8cc77767d783",
+    "author": "Jane Smith",
+    "title": "Sustainable Living: A Guide",
+    "author_img": "https://images.unsplash.com/photo-1502685104226-ee32379fefbe",
+    "reading_time": 5,
+    "hashtags": ["#Sustainability", "#Environment", "#EcoFriendly"],
+    "posted_date": "2024-09-25"
+  },
+  {
+    "id": 3,
+    "cover": "https://images.unsplash.com/photo-1446776811953-b23d57bd21aa",
+    "author": "Robert Johnson",
+    "title": "Exploring Space: The New Frontier",
+    "author_img": "https://images.unsplash.com/photo-1544005313-94ddf0286df2",
+    "reading_time": 5,
+    "hashtags": ["#Space", "#Science", "#Exploration"],
+    "posted_date": "2024-08-15"
+  },
+  {
+    "id": 4,
+    "cover": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d",
+    "author": "Emily White",
+    "title": "Mindfulness in the Modern World",
+    "author_img": "https://images.unsplash.com/photo-1534528741775-53994a69daeb",
+    "reading_time": 5,
+    "hashtags": ["#Mindfulness", "#Wellness", "#MentalHealth"],
+    "posted_date": "2024-07-30"
+  },
+  {
+    "id": 5,
+    "cover": "https://images.unsplash.com/photo-1515377905703-c4788e51af15",
+    "author": "Michael Brown",
+    "title": "The Evolution of Social Media",
+    "author_img": "https://images.unsplash.com/photo-1554151228-14d9def656e4",
+    "reading_time": 5,
+    "hashtags": ["#SocialMedia", "#Technology", "#Innovation"],
+    "posted_date": "2024-06-20"
+  }
+]
